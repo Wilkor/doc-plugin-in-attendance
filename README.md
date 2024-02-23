@@ -25,6 +25,9 @@ Muito simples, basta seguir o passo a passo abaixo para ativar e configurar sua 
 ![image](https://github.com/Wilkor/doc-plugin-in-attendance/assets/34819624/929bd6ce-4cfe-4635-ab16-ef534d3fb4eb)
 
 
+**OBS:** Esta solução é apenas para contatos WhatsApp
+
+
  Ao clicar o icone "**destacado em vermelho**", você será redirecioado para a tela de contatos do blip. 
  
 
