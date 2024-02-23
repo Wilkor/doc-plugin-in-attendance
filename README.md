@@ -16,6 +16,7 @@ Muito simples, basta seguir o passo a passo abaixo para ativar e configurar sua 
     ![image](https://github.com/Wilkor/doc-plugin-in-attendance/assets/34819624/333c93b2-be3e-42ae-97b0-e3cd01361a69)
 
   - Coloque o telefone do cliente e clique em consultar.
+  - Obs: Não adicionar letras
 
     ![image](https://github.com/Wilkor/doc-plugin-in-attendance/assets/34819624/4c32e809-1c67-48c5-b1c7-9c3fe82ec441)
 
